@@ -40,12 +40,13 @@ class Address {
 }
 
 public class HasADemo {
+
 	public static void main(String[] args) {
-		//method 1
+		// method 1
 		Address addr = new Address(1234, "ABC", 560054);
 		Empl empl = new Empl("John Doe", 123, "IT", addr);
 		empl.displayEmpDetails();
-		//method 2
+		// method 2
 		Empl e2 = new Empl("John Doe", 124, "HR", new Address(123, "ABC", 12345));
 		e2.displayEmpDetails();
 
