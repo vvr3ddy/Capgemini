@@ -1,3 +1,8 @@
+/*
+ * Exercise 07 of lab 6
+ * Create a method which accepts an integer array, reverse the numbers in the array
+ * and returns the resulting array in sorted order
+ */
 package lab6;
 
 import java.util.*;
