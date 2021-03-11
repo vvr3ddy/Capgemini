@@ -15,7 +15,12 @@ public class EmployeeServiceImpl extends Employee implements EmployeeService {
 
 	@Override
 	public void getEmployeeDetails(Employee employee) {
+		System.out.println("Employee Details:");
 		
+		System.out.println("Name:" + employee.getName());
+		System.out.println("Id:" + employee.getId());
+		System.out.println("Designation:" + employee.getDesignation());
+		System.out.println("Salary:"+employee.getSalary());
 	}
 
 	@Override
@@ -30,4 +35,3 @@ public class EmployeeServiceImpl extends Employee implements EmployeeService {
 	}
 
 }
-
