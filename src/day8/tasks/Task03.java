@@ -30,11 +30,19 @@ class InvalidNameException extends Exception {
 	public InvalidNameException(String msg) {
 		super();
 	}
+	int x=10;
+	void assign(int x) {
+		x = x;
+		System.out.println(this.x);
+	}
 }
 
 public class Task03 {
 	public static void main(String[] args) throws Exception {
 		Employee employee = new Employee(null, "abcd");
 		employee.validate();
+		
+		InvalidNameException i = new InvalidNameException("Hello");
+		i.assign(100);
 	}
 }
