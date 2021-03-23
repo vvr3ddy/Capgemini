@@ -7,5 +7,14 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/ons.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/oraclepki.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/orai18n.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/osdt_core.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/simplefan.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/ucp.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/Oracle JDBC Drivers/xdb6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
