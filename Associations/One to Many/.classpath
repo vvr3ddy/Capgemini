@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/hibernate-core-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/hibernate-entitymanager-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/ons.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/oraclepki.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/orai18n.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/osdt_core.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/simplefan.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/ucp.jar"/>
+	<classpathentry kind="lib" path="V:/Capgemini/Internship/STS-Workspace/JPADemo/lib/xdb6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
